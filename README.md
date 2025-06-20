@@ -75,6 +75,8 @@ From the bar chart in the dashboard, **2014-2015** and **2017-2018** stand out a
 
 There's been slow debt growth between **2021 and 2023** which shows efforts to slow down external borrowing or external pressure from debt servicing.
 
+The highest debt amount borrowed was in **2023** which is **42.91 billion KES**.
+
 ## Technical or logical challenges you encountered
 
 Some of the technical or logical challenges encountered include:
