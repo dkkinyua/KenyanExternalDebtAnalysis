@@ -82,4 +82,5 @@ Some of the technical or logical challenges encountered include:
 - Inconsistent time formats
 - Dealing with missing/NaN values
 - The API returns nested JSON or XML, not always straightforward for Pandas ingestion
+- This data is just from external debts and does not use any other indicators to analyze any other debt patterns
 
