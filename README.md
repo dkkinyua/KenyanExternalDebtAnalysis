@@ -77,7 +77,7 @@ There's been slow debt growth between **2021 and 2023** which shows efforts to s
 
 The highest debt amount borrowed was in **2023** which is **42.91 billion KES**.
 
-## Technical or logical challenges you encountered
+## Technical or logical challenges encountered
 
 Some of the technical or logical challenges encountered include:
 
